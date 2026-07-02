@@ -1,0 +1,17 @@
+{
+  "name": "rankiir-rankiir",
+  "version": "1.0.0",
+  "description": "Rankiir Track keyword rankings and monitor SEO performance with Rankiir, the powerful position tracking tool for data-driven search optimization.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "Rankiir",
+  "license": "ISC",
+  "homepage": "https://rankiir.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rankiir/rankiir.git"
+  }
+}
